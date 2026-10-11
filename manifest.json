@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "datafusion-id-experiment",
+  "versions": [
+    {
+      "commit": "e31ed01e44f0914cb5642c473a01f87a25366885",
+      "parsed_at": "2026-10-11T22:08:13.135966+00:00",
+      "filetree": "filetree/e31ed01e44f0914cb5642c473a01f87a25366885.nq.gz",
+      "blobs": [
+        "blob/75306517965a54731b94dca8bace640e856af115.nq.gz",
+        "blob/43a163036a26fba141716d2217b4cf579a261baf.nq.gz",
+        "blob/a56c44a509b4d9b3c6a21d5e846f46204b4d25a8.nq.gz",
+        "blob/c7534e57de859a600f096bd6b9a103fa494e2a80.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
